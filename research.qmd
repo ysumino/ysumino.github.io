@@ -1,19 +1,65 @@
 ## Active Motion of Mesoscopic Interfaces
 
-![](images/Droplet.jpg){width="50%"}
+<div style="flex: 1;">
 
-I study active motion of mesoscopic interfaces such as droplets, vesicles, and colloids driven by chemical reactions and interfacial flows.
+[Arrested coarsening in active colloidal suspensions driven by nonreciprocal electrohydrodynamic interactions](https://arxiv.org/abs/2509.23164v2)
+
+[Droplet duos on water display pairing, autonomous motion, periodic eruption](https://doi.org/10.1038/s41598-023-39094-6)
+
+I study active flows induced by mesoscopic interfaces such as droplets, vesicles, and colloids. These flows are driven by chemical reactions and external electric fields, leadaing to non-trivial dynamics clusters.
+
+</div>
+
+<div style="width: 180px;">
+<img src="images/droplet.jpg" style="width: 100%; border-radius: 10px;">
+</div>
+
+</div>
+
+
 
 ---
 
 ## Active Turbulence in Biological Systems
 
-![](images/banner2.jpg){width="60%"}
+<div style="flex: 1;">
+
+[Active Motion of microtubule bundles driven by dyneinmotors](https://doi.org/10.1038/nature10874)
+
+[Self-emergent vortex flow of microtubule and kinesin in cell-sized droplets under water/water phase separation](https://doi.org/10.1038/s42004-023-00879-5)
+
+[Edge Current and Pairing Order Transition in Chiral Bacterial Vortex](https://doi.org/10.1073/pnas.2107461118)
 
 My work explores active flows and pattern formation in biological and biomimetic systems, including cytoskeletal active matter and confined geometries.
+
+</div>
+
+<div style="width: 180px;">
+<img src="images/banner2.jpg" style="width: 100%; border-radius: 10px;">
+</div>
+
+</div>
+
+
 
 ---
 
 ## Reduced Models and Stochastic Dynamics
 
+[Collective motion of active particles with finite memory in their carving motion](https://doi.org/10.1103/PhysRevLett.114.168001)
+
+[Heat differentiated by projection from particles' trajectories onto the particle number-density field](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.054124)
+
 I develop reduced mathematical descriptions, including effective stochastic equations, to extract essential dynamical principles from complex systems.
+
+## History
+- 2025-present: Sabbatical at Univesity of Surrey, UK
+- 2024–present: Professor, Tokyo University of Science
+- 2019–2024: Associate Professor, Tokyo University of Science
+- 2014–2019: Jr. Associate Professor, Tokyo University of Science
+- 2013–2014: Jr. Associate Professor, Aichi University of Education
+- 2011–2013: Assistant Professor, Aichi University of Education
+- 2009–2011: Postdoctoral Researcher, University of Tokyo
+- 2006–2009: PhD student, Kyoto University
+
+[See also my old personal website](https://sites.google.com/site/ysumino/home?authuser=0)
