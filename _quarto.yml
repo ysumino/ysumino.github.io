@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Yutaka Sumino"
+  site-url: https://ysumino.github.io/ 
   navbar:
     right:
       - text: "Home"
