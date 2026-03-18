@@ -62,6 +62,9 @@ I develop reduced mathematical descriptions, including effective stochastic equa
 
 
 ## History
+
+- [Sumino Lab website](http://www.rs.tus.ac.jp/sumino_lab/)
+
 - 2025-present: Sabbatical at Univesity of Surrey, UK
 - 2024–present: Professor, Tokyo University of Science
 - 2019–2024: Associate Professor, Tokyo University of Science
