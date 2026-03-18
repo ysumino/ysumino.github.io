@@ -1,0 +1,32 @@
+/* css styles */
+body {
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0.02em;
+}
+h2 {
+  margin-top: 30px;
+}
+.navbar {
+  font-weight: 500;
+}
+
+.quarto-title-banner {
+  background: #f6f3ee;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Yutaka Sumino"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: |
+      © Yutaka Sumino |
+      [Google Scholar](https://scholar.google.com/citations?user=PYPm4uYAAAAJ&hl=en&oi=ao) |
+      [researchmap](https://researchmap.jp/7000001301?lang=en)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
