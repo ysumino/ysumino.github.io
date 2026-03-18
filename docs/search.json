@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Yutaka Sumino",
     "section": "",
-    "text": "Understanding how life-like behaviors emerge from physical systems.\nArtificial Life Physics seeks universal physical principles behind self-organization, pattern formation, and collective dynamics.\nRather than focusing only on molecular components, we investigate general mechanisms underlying emergent dynamics.\nOur research focuses on mesoscopic interfaces (100 nm – 1 mm), where transport, mechanics, and geometry interact to generate rich nonequilibrium phenomena.\nMy recent work aims to bridge active biological systems and non-biological systems through nonlinear dynamics and stochastic coarse-grained models.\n\n\n\n\n\n\n\n\n\nArtificial Life Physics\nMesoscopic interfaces with active flows\nActive turbulence in biological and synthetic systems\nNonlinear dynamics and pattern formation in active matter\nReduced models and Langevin descriptions\n\n\n\n\n\nGoogle Scholar\nresearchmap\nORCID\nGitHub"
+    "text": "Understanding how life-like behaviors emerge from physical systems.\nArtificial Life Physics seeks universal physical principles behind self-organization, pattern formation, and collective dynamics.\nRather than focusing only on molecular components, we investigate general mechanisms underlying emergent dynamics.\nOur research focuses on mesoscopic interfaces (100 nm – 1 mm), where transport, mechanics, and geometry interact to generate rich nonequilibrium phenomena.\nMy recent work aims to bridge active biological systems and non-biological systems through nonlinear dynamics and stochastic coarse-grained models.\n\n\n\n\n\n\n\n\n\nArtificial Life Physics\nMesoscopic interfaces with active flows\nCollective motion in biological and synthetic systems\nReduced models and Langevin descriptions\nNonlinear dynamics and pattern formation\n\n\n\n\n\nGoogle Scholar\nresearchmap\nORCID\nGitHub"
   },
   {
     "objectID": "index.html#artificial-life-physics",
@@ -18,7 +18,7 @@
     "href": "index.html#research-interests",
     "title": "Yutaka Sumino",
     "section": "",
-    "text": "Artificial Life Physics\nMesoscopic interfaces with active flows\nActive turbulence in biological and synthetic systems\nNonlinear dynamics and pattern formation in active matter\nReduced models and Langevin descriptions"
+    "text": "Artificial Life Physics\nMesoscopic interfaces with active flows\nCollective motion in biological and synthetic systems\nReduced models and Langevin descriptions\nNonlinear dynamics and pattern formation"
   },
   {
     "objectID": "index.html#external-profiles-for-publications-and-research-activities",
@@ -32,28 +32,28 @@
     "href": "research.html",
     "title": "Yutaka Sumino",
     "section": "",
-    "text": "Arrested coarsening in active colloidal suspensions driven by nonreciprocal electrohydrodynamic interactions\nDroplet duos on water display pairing, autonomous motion, periodic eruption\nI study active flows induced by mesoscopic interfaces such as droplets, vesicles, and colloids. These flows are driven by chemical reactions and external electric fields, leadaing to non-trivial dynamics clusters."
+    "text": "Precipitation induced filament pattern of injected fluid controlled by structured cell\nDroplet duos on water display pairing, autonomous motion, periodic eruption\nPairing-induced motion of source and inert particles driven by surface tension\nI study active flows induced by mesoscopic interfaces such as droplets, vesicles, and colloids. These flows are driven by chemical reactions and external electric fields, leadaing to non-trivial dynamics clusters."
   },
   {
     "objectID": "research.html#active-motion-of-mesoscopic-interfaces",
     "href": "research.html#active-motion-of-mesoscopic-interfaces",
     "title": "Yutaka Sumino",
     "section": "",
-    "text": "Arrested coarsening in active colloidal suspensions driven by nonreciprocal electrohydrodynamic interactions\nDroplet duos on water display pairing, autonomous motion, periodic eruption\nI study active flows induced by mesoscopic interfaces such as droplets, vesicles, and colloids. These flows are driven by chemical reactions and external electric fields, leadaing to non-trivial dynamics clusters."
+    "text": "Precipitation induced filament pattern of injected fluid controlled by structured cell\nDroplet duos on water display pairing, autonomous motion, periodic eruption\nPairing-induced motion of source and inert particles driven by surface tension\nI study active flows induced by mesoscopic interfaces such as droplets, vesicles, and colloids. These flows are driven by chemical reactions and external electric fields, leadaing to non-trivial dynamics clusters."
   },
   {
-    "objectID": "research.html#active-turbulence-in-biological-systems",
-    "href": "research.html#active-turbulence-in-biological-systems",
+    "objectID": "research.html#collective-motions-in-biological-and-synthetic-systems",
+    "href": "research.html#collective-motions-in-biological-and-synthetic-systems",
     "title": "Yutaka Sumino",
-    "section": "Active Turbulence in Biological Systems",
-    "text": "Active Turbulence in Biological Systems\n\nActive Motion of microtubule bundles driven by dyneinmotors\nSelf-emergent vortex flow of microtubule and kinesin in cell-sized droplets under water/water phase separation\nEdge Current and Pairing Order Transition in Chiral Bacterial Vortex\nMy work explores active flows and pattern formation in biological and biomimetic systems, including cytoskeletal active matter and confined geometries."
+    "section": "Collective motions in Biological and Synthetic Systems",
+    "text": "Collective motions in Biological and Synthetic Systems\nArrested coarsening in active colloidal suspensions driven by nonreciprocal electrohydrodynamic interactions\nSelf-emergent vortex flow of microtubule and kinesin in cell-sized droplets under water/water phase separation\nEdge Current and Pairing Order Transition in Chiral Bacterial Vortex\nMy work explores active flows and pattern formation in biological and biomimetic systems, including cytoskeletal active matter and confined geometries."
   },
   {
     "objectID": "research.html#reduced-models-and-stochastic-dynamics",
     "href": "research.html#reduced-models-and-stochastic-dynamics",
     "title": "Yutaka Sumino",
     "section": "Reduced Models and Stochastic Dynamics",
-    "text": "Reduced Models and Stochastic Dynamics\nCollective motion of active particles with finite memory in their carving motion\nHeat differentiated by projection from particles’ trajectories onto the particle number-density field\nI develop reduced mathematical descriptions, including effective stochastic equations, to extract essential dynamical principles from complex systems."
+    "text": "Reduced Models and Stochastic Dynamics\n\n\nActive Motion of microtubule bundles driven by dyneinmotors\nCollective motion of active particles with finite memory in their carving motion\nHeat differentiated by projection from particles’ trajectories onto the particle number-density field\nI develop reduced mathematical descriptions, including effective stochastic equations, to extract essential dynamical principles from complex systems."
   },
   {
     "objectID": "research.html#history",

@@ -30,9 +30,9 @@ My recent work aims to bridge active biological systems and non-biological syste
 
 - Artificial Life Physics
 - Mesoscopic interfaces with active flows
-- Active turbulence in biological and synthetic systems
-- Nonlinear dynamics and pattern formation in active matter
+- Collective motion in biological and synthetic systems
 - Reduced models and Langevin descriptions
+- Nonlinear dynamics and pattern formation
 
 ## External profiles for publications and research activities
 
