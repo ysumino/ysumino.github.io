@@ -1,8 +1,8 @@
 ## Active Motion of Mesoscopic Interfaces
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div class="research-item">
 
-<div style="flex: 1;">
+<div class="research-text">
 
 [Precipitation induced filament pattern of injected fluid controlled by structured cell](https://doi.org/10.1103/PhysRevE.109.065105)
 
@@ -10,19 +10,19 @@
 
 [Pairing-induced motion of source and inert particles driven by surface tension](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.024604)
 
-I study active flows induced by mesoscopic interfaces such as droplets, vesicles, and colloids. These flows are driven by chemical reactions and external electric fields, leadaing to non-trivial dynamics clusters.
+I study active flows induced by mesoscopic interfaces such as droplets, vesicles, and colloids. These flows are driven by chemical reactions and external electric fields, leading to non-trivial interfacial dynamics.
 
 </div>
 
-<div style="width: 180px;">
-<img src="images/droplet.jpg" style="width: 100%; border-radius: 10px;">
+<div class="research-image">
+<img src="images/droplet.jpg" alt="Droplet dynamics">
 </div>
 
 </div>
 
 ---
 
-## Collective motions in Biological and Synthetic Systems
+## Collective Motions in Biological and Synthetic Systems
 
 [Arrested coarsening in active colloidal suspensions driven by nonreciprocal electrohydrodynamic interactions](https://arxiv.org/abs/2509.23164v2)
 
@@ -36,9 +36,9 @@ My work explores active flows and pattern formation in biological and biomimetic
 
 ## Reduced Models and Stochastic Dynamics
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div class="research-item">
 
-<div style="flex: 1;">
+<div class="research-text">
 
 [Active Motion of microtubule bundles driven by dyneinmotors](https://doi.org/10.1038/nature10874)
 
@@ -50,11 +50,12 @@ I develop reduced mathematical descriptions, including effective stochastic equa
 
 </div>
 
-<div style="width: 180px;">
-<img src="images/banner2.jpg" style="width: 100%; border-radius: 10px;">
+<div class="research-image">
+<img src="images/banner2.jpg" alt="Droplet dynamics">
 </div>
 
 </div>
+
 
 
 
