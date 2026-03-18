@@ -15,7 +15,7 @@ I study active flows induced by mesoscopic interfaces such as droplets, vesicles
 </div>
 
 <div class="research-image">
-<img src="images/droplet.jpg" alt="Droplet dynamics">
+<img src="images/droplet_interface.jpg" alt="Droplet dynamics">
 </div>
 
 </div>

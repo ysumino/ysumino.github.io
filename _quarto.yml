@@ -2,8 +2,10 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "Yutaka Sumino"
+  google-analytics: "G-F3D4RESWHD"
   site-url: https://ysumino.github.io/ 
   navbar:
     right:
