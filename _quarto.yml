@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Yutaka Sumino"
+  favicon: images/favicon.png
   google-analytics: "G-F3D4RESWHD"
   site-url: https://ysumino.github.io/ 
   navbar:
