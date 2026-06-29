@@ -2,4 +2,12 @@
 **/*.quarto_ipynb
 *.key
 *.pem
+.DS_Store
 github-key
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+.quarto/
+vendor/
+._*
